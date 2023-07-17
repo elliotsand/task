@@ -1,0 +1,23 @@
+.completed {
+  text-decoration: line-through;
+}
+
+.task-input {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+.checkbox{
+ padding: 0 10px 0 0 ;
+}
+.checkbox:after {
+  display: block;
+  padding: 0 10px 0 0 ;
+}
